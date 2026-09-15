@@ -144,11 +144,7 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 1.0
-  preloadedAssets:
-  - {fileID: 0}
-  - {fileID: 9030113687040111788, guid: 4b3de149e50ea0c4f8ad04c79b9f12ec, type: 2}
-  - {fileID: 4226981303226134123, guid: b716680a41c7a094fa3b7fb9a8024a67, type: 2}
-  - {fileID: 11400000, guid: 908d62378b8205449861e5838a18a596, type: 2}
+  preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   xboxOneDisableKinectGpuReservation: 1
@@ -1008,11 +1004,11 @@ PlayerSettings:
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: 
+  cloudProjectId: 4339d15c-4d4c-45cb-94db-3381ceb32661
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: alu-0x0A-unity-360_video_tour
+  organizationId: unity_df31ca1e4dd192e50281
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
