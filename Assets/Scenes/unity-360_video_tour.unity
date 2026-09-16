@@ -461,11 +461,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RoomSwitcher
   rooms:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  fadeCanvasGroup: {fileID: 0}
+  - {fileID: 1328773240}
+  - {fileID: 234805988}
+  - {fileID: 1395126125}
+  - {fileID: 1052830622}
+  fadeCanvasGroup: {fileID: 2042454787}
   fadeDuration: 0.5
 --- !u!4 &653348099
 Transform:
@@ -1142,9 +1142,9 @@ SceneRoots:
   - {fileID: 862070630}
   - {fileID: 949527911}
   - {fileID: 1776816825}
+  - {fileID: 618855928}
   - {fileID: 420717353}
   - {fileID: 1363646882}
-  - {fileID: 618855928}
   - {fileID: 653348099}
   - {fileID: 1521799998}
   - {fileID: 1197040839}
