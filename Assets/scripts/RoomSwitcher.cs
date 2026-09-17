@@ -67,6 +67,7 @@ public class RoomSwitcher : MonoBehaviour
         // fade back in
         yield return StartCoroutine(Fade(1f, 0f));
 
+        fadeCanvasGroup.blocksRaycasts = false; // let clicks through again
         isSwitching = false;
     }
 
