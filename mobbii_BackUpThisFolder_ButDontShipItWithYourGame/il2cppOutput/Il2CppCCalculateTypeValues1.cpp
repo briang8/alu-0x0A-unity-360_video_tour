@@ -6150,7 +6150,7 @@ struct ParseError_t8391379EFAC25FE8D912C5CEC2BBE5F04C03E751  : public RuntimeObj
 	int32_t ___position;
 	String_t* ___message;
 };
-struct U3CFadeU3Ed__8_t6967BDBB54176A6B0460A0D0CC906EA9F8FBCE68  : public RuntimeObject
+struct U3CFadeU3Ed__10_tB66CCAB8FB172886B5DA8376014CC462A9B2A11F  : public RuntimeObject
 {
 	int32_t ___U3CU3E1__state;
 	RuntimeObject* ___U3CU3E2__current;
@@ -6159,7 +6159,7 @@ struct U3CFadeU3Ed__8_t6967BDBB54176A6B0460A0D0CC906EA9F8FBCE68  : public Runtim
 	float ___to;
 	float ___U3CelapsedU3E5__2;
 };
-struct U3CFadeAndSwitchU3Ed__7_tBB2C8CAB0B0EC2461ED844A4B32476677FB8DE33  : public RuntimeObject
+struct U3CFadeAndSwitchU3Ed__9_tAE6B9ACD10AF55F3C13B3E2B4F5CF982E1AFE5EA  : public RuntimeObject
 {
 	int32_t ___U3CU3E1__state;
 	RuntimeObject* ___U3CU3E2__current;
@@ -72599,9 +72599,9 @@ const Il2CppTypeDefinitionSizes g_typeDefinitionSize10290 = { sizeof(U3CFadeU3Ed
 IL2CPP_EXTERN_C_CONST Il2CppTypeDefinitionSizes g_typeDefinitionSize10291;
 const Il2CppTypeDefinitionSizes g_typeDefinitionSize10291 = { sizeof(InfoBoxToggle_t224D2E7E374F57541A207E6540A97808A68C9F69), -1, 0, 0 };
 IL2CPP_EXTERN_C_CONST Il2CppTypeDefinitionSizes g_typeDefinitionSize10292;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize10292 = { sizeof(U3CFadeU3Ed__8_t6967BDBB54176A6B0460A0D0CC906EA9F8FBCE68), -1, 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize10292 = { sizeof(U3CFadeU3Ed__10_tB66CCAB8FB172886B5DA8376014CC462A9B2A11F), -1, 0, 0 };
 IL2CPP_EXTERN_C_CONST Il2CppTypeDefinitionSizes g_typeDefinitionSize10293;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize10293 = { sizeof(U3CFadeAndSwitchU3Ed__7_tBB2C8CAB0B0EC2461ED844A4B32476677FB8DE33), -1, 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize10293 = { sizeof(U3CFadeAndSwitchU3Ed__9_tAE6B9ACD10AF55F3C13B3E2B4F5CF982E1AFE5EA), -1, 0, 0 };
 IL2CPP_EXTERN_C_CONST Il2CppTypeDefinitionSizes g_typeDefinitionSize10294;
 const Il2CppTypeDefinitionSizes g_typeDefinitionSize10294 = { sizeof(RoomSwitcher_t0AA75E88CABD1E2C49B9B99698281BFAD080DC0A), -1, 0, 0 };
 IL2CPP_EXTERN_C_CONST Il2CppTypeDefinitionSizes g_typeDefinitionSize10295;

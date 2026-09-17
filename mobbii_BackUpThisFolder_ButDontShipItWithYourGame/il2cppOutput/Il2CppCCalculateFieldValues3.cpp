@@ -1783,7 +1783,7 @@ struct U3CGetPropertyMembersU3Ed__22_t6D8200BE8309AEA2B11C0A3857CB5C82C722CC9D  
 	Type_t* ___U3CU3E3__type;
 	RuntimeObject* ___U3CU3E7__wrap1;
 };
-struct U3CFadeU3Ed__8_t6967BDBB54176A6B0460A0D0CC906EA9F8FBCE68  : public RuntimeObject
+struct U3CFadeU3Ed__10_tB66CCAB8FB172886B5DA8376014CC462A9B2A11F  : public RuntimeObject
 {
 	int32_t ___U3CU3E1__state;
 	RuntimeObject* ___U3CU3E2__current;
@@ -1792,7 +1792,7 @@ struct U3CFadeU3Ed__8_t6967BDBB54176A6B0460A0D0CC906EA9F8FBCE68  : public Runtim
 	float ___to;
 	float ___U3CelapsedU3E5__2;
 };
-struct U3CFadeAndSwitchU3Ed__7_tBB2C8CAB0B0EC2461ED844A4B32476677FB8DE33  : public RuntimeObject
+struct U3CFadeAndSwitchU3Ed__9_tAE6B9ACD10AF55F3C13B3E2B4F5CF982E1AFE5EA  : public RuntimeObject
 {
 	int32_t ___U3CU3E1__state;
 	RuntimeObject* ___U3CU3E2__current;
@@ -20403,10 +20403,10 @@ IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable10291[4] =
 	static_cast<int32_t>(offsetof(InfoBoxToggle_t224D2E7E374F57541A207E6540A97808A68C9F69, ___fadeDuration)),static_cast<int32_t>(offsetof(InfoBoxToggle_t224D2E7E374F57541A207E6540A97808A68C9F69, ___canvasGroup)),static_cast<int32_t>(offsetof(InfoBoxToggle_t224D2E7E374F57541A207E6540A97808A68C9F69, ___fadeRoutine)),static_cast<int32_t>(offsetof(InfoBoxToggle_t224D2E7E374F57541A207E6540A97808A68C9F69, ___isOpen)),};
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable10292[6] = 
 {
-	static_cast<int32_t>(offsetof(U3CFadeU3Ed__8_t6967BDBB54176A6B0460A0D0CC906EA9F8FBCE68, ___U3CU3E1__state)),static_cast<int32_t>(offsetof(U3CFadeU3Ed__8_t6967BDBB54176A6B0460A0D0CC906EA9F8FBCE68, ___U3CU3E2__current)),static_cast<int32_t>(offsetof(U3CFadeU3Ed__8_t6967BDBB54176A6B0460A0D0CC906EA9F8FBCE68, ___U3CU3E4__this)),static_cast<int32_t>(offsetof(U3CFadeU3Ed__8_t6967BDBB54176A6B0460A0D0CC906EA9F8FBCE68, ___from)),static_cast<int32_t>(offsetof(U3CFadeU3Ed__8_t6967BDBB54176A6B0460A0D0CC906EA9F8FBCE68, ___to)),static_cast<int32_t>(offsetof(U3CFadeU3Ed__8_t6967BDBB54176A6B0460A0D0CC906EA9F8FBCE68, ___U3CelapsedU3E5__2)),};
+	static_cast<int32_t>(offsetof(U3CFadeU3Ed__10_tB66CCAB8FB172886B5DA8376014CC462A9B2A11F, ___U3CU3E1__state)),static_cast<int32_t>(offsetof(U3CFadeU3Ed__10_tB66CCAB8FB172886B5DA8376014CC462A9B2A11F, ___U3CU3E2__current)),static_cast<int32_t>(offsetof(U3CFadeU3Ed__10_tB66CCAB8FB172886B5DA8376014CC462A9B2A11F, ___U3CU3E4__this)),static_cast<int32_t>(offsetof(U3CFadeU3Ed__10_tB66CCAB8FB172886B5DA8376014CC462A9B2A11F, ___from)),static_cast<int32_t>(offsetof(U3CFadeU3Ed__10_tB66CCAB8FB172886B5DA8376014CC462A9B2A11F, ___to)),static_cast<int32_t>(offsetof(U3CFadeU3Ed__10_tB66CCAB8FB172886B5DA8376014CC462A9B2A11F, ___U3CelapsedU3E5__2)),};
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable10293[4] = 
 {
-	static_cast<int32_t>(offsetof(U3CFadeAndSwitchU3Ed__7_tBB2C8CAB0B0EC2461ED844A4B32476677FB8DE33, ___U3CU3E1__state)),static_cast<int32_t>(offsetof(U3CFadeAndSwitchU3Ed__7_tBB2C8CAB0B0EC2461ED844A4B32476677FB8DE33, ___U3CU3E2__current)),static_cast<int32_t>(offsetof(U3CFadeAndSwitchU3Ed__7_tBB2C8CAB0B0EC2461ED844A4B32476677FB8DE33, ___U3CU3E4__this)),static_cast<int32_t>(offsetof(U3CFadeAndSwitchU3Ed__7_tBB2C8CAB0B0EC2461ED844A4B32476677FB8DE33, ___target)),};
+	static_cast<int32_t>(offsetof(U3CFadeAndSwitchU3Ed__9_tAE6B9ACD10AF55F3C13B3E2B4F5CF982E1AFE5EA, ___U3CU3E1__state)),static_cast<int32_t>(offsetof(U3CFadeAndSwitchU3Ed__9_tAE6B9ACD10AF55F3C13B3E2B4F5CF982E1AFE5EA, ___U3CU3E2__current)),static_cast<int32_t>(offsetof(U3CFadeAndSwitchU3Ed__9_tAE6B9ACD10AF55F3C13B3E2B4F5CF982E1AFE5EA, ___U3CU3E4__this)),static_cast<int32_t>(offsetof(U3CFadeAndSwitchU3Ed__9_tAE6B9ACD10AF55F3C13B3E2B4F5CF982E1AFE5EA, ___target)),};
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable10294[4] = 
 {
 	static_cast<int32_t>(offsetof(RoomSwitcher_t0AA75E88CABD1E2C49B9B99698281BFAD080DC0A, ___rooms)),static_cast<int32_t>(offsetof(RoomSwitcher_t0AA75E88CABD1E2C49B9B99698281BFAD080DC0A, ___fadeCanvasGroup)),static_cast<int32_t>(offsetof(RoomSwitcher_t0AA75E88CABD1E2C49B9B99698281BFAD080DC0A, ___fadeDuration)),static_cast<int32_t>(offsetof(RoomSwitcher_t0AA75E88CABD1E2C49B9B99698281BFAD080DC0A, ___isSwitching)),};
